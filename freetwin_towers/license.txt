@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Free]Twin Towers
+* source:	https://sketchfab.com/3d-models/freetwin-towers-0ef1fbacffcc4ccfa168d292553242a3
+* author:	brunorafael (https://sketchfab.com/brunodelrey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Free]Twin Towers" (https://sketchfab.com/3d-models/freetwin-towers-0ef1fbacffcc4ccfa168d292553242a3) by brunorafael (https://sketchfab.com/brunodelrey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
